@@ -33,7 +33,6 @@ The following **additional** features are implemented:
   </iframe>
 </div>
 
-
 ## Notes
 
 This project was very tedious and difficult because there were no instructions and I spent too much time figuring out the UI more than the logic.
